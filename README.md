@@ -10,7 +10,7 @@
 
 ## Live Demo (if available)
 
-N/A
+https://khawanin.github.io/7th-Semester-Project/
 
 ## Get Started
 
